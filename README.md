@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickM715
-- 👀 I’m interested in ...computer science, piano, hanging out
-- 🌱 I’m currently learning ... computer science, japanese
+- 👀 I’m interested in ...computer science, music, hanging out
+- 🌱 I’m currently learning ... computer science, japanese, piano
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 317-331-3634 or nmyrick@purdue.edu
 <!---
