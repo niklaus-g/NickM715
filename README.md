@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in computer science, music, video games
-- 🌱 I’m currently learning computer science, math, physics, piano
+- 👀 I’m interested in computer science, music, and video games
+- 🌱 I’m currently learning computer science, math, physics, and piano
 - 💞️ I’m looking to collaborate on anyting interesting
 - 📫 How to reach me ... 317-331-3634 or nmyrick@purdue.edu
 <!---
